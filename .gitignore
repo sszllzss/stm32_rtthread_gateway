@@ -41,3 +41,5 @@ RTE/
 settings/
 *.uvguix*
 cconfig.h
+!tools/ST-LINK_Debugger
+.rtthread_stlink_download
