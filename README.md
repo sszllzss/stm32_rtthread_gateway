@@ -38,12 +38,11 @@ STM32F103ZET6小系统板是嵌入式开发网的一款基于 ARM Cortex-M3 内�
 
 | **板载外设** | **支持情况** | **备注** |
 | :-----: | :-----: | :-----: |
-| SDCARD | 支持 |  |
+| SDCARD | 支持 | sd 1bit |
 | SPI FLASH | 支持 | W25Q16，2MB |
 | **片上外设** | **支持情况** | **备注** |
 | GPIO  | 支持 |  |
 | USART | 支持 | USART1 |
-| SDIO | 支持 |  |
 | SPI | 支持 | SPI1/2/3 |
 | I2C | 支持 | 软件I2C |
 | FLASH | 支持 | 已适配 [FAL](https://github.com/RT-Thread-packages/fal) |
